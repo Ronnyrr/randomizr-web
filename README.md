@@ -7,3 +7,6 @@ This project includes a React application to random generate questions for a wee
 `$ cd randomizr-web && npm install`
 
 `$ npm start` (run in development mode)
+
+## Credits
+[React Prime](https://github.com/JBostelaar/react-prime) is used as boilerplate for this React project.
