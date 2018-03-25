@@ -1,1 +1,1 @@
-export demo from './demo';
+export ui from './ui';
